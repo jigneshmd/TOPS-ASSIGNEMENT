@@ -122,19 +122,8 @@
 
 -- Q9 --What is save Point? How to create a save Point write a Query? 
 
-Savepoint is a command in SQL that is used with the rollback command.
-It is a command in Transaction Control Language that is used to mark the transaction in a table.
-Consider you are making a very long table, and you want to roll back only to a certain position in a table then; this can be achieved using the savepoint.
-If you made a transaction in a table, you could mark the transaction as a certain name, and later on, if you want to roll back to that point, you can do it easily by using the transaction's name.
-Savepoint is helpful when we want to roll back only a small part of a table and not the whole table. In simple words, we can say savepoint is a bookmark in SQL.
-
-
-
-
-
-
-
-
-
-
-
+-- Savepoint is a command in SQL that is used with the rollback command.
+-- It is a command in Transaction Control Language that is used to mark the transaction in a table.
+-- Consider you are making a very long table, and you want to roll back only to a certain position in a table then; this can be achieved using the savepoint.
+-- If you made a transaction in a table, you could mark the transaction as a certain name, and later on, if you want to roll back to that point, you can do it easily by using the transaction's name.
+-- Savepoint is helpful when we want to roll back only a small part of a table and not the whole table. In simple words, we can say savepoint is a bookmark in SQL.
