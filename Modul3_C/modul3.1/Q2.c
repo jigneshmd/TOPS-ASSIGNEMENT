@@ -16,7 +16,7 @@ printf("\nMultiplication\t : %d", num1*num2);
 
 printf("\nSubtraction\t : %d", num1-num2);
 
-printf("\nDivision\t : %f", a);
+printf("\nDivision\t : %.3f", a);
 
 printf("\nmodulo\t\t : %d", num1%num2);
   
