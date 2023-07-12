@@ -1,0 +1,6 @@
+Q2. What is difference between mongo DB and SQL
+		mongodb		SQL
+		Database	Database
+		Document	Table
+		Collection	Rows
+		Fields		Column
