@@ -34,7 +34,7 @@ Q2 :- What is JavaScript?
 --> JavaScript is the Programming Language for the Web.
 JavaScript can update and change both HTML and CSS.
 JavaScript can calculate, manipulate and validate data.
--------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
 
 Q4 :- What are the data types supported by JavaScript?
 -->
@@ -125,7 +125,7 @@ console.log(typeof(a));  //undefined
 console.log(undeclaredVar);  //Uncaught ReferenceError: undeclaredVar is not defined  
 -------------------------------------------------------------------------------------------
 
-Q9 :- What would be the result of 2+5+”3″? 
+Q9 :- What would be the result of 2+5 + "3"? 
 
 --> Because compiler firstly treat 2+5 as an integer or a addition symbol
 
